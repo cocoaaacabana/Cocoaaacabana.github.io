@@ -85,7 +85,15 @@ defaults:
     values:
       layout: post
       share: true
-
+  # Catalog defaults
+  - scope:
+      path: "_catalog"
+      type: catalog
+    values:
+      layout: post
+      comments: false
+      share: true
+      
 # Site Author
 author:
   name:
