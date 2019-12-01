@@ -6,7 +6,7 @@ colelction: about_us
 ---
 
 ## Nica
-<img src="nica.jpg" class="align-center" alt="">
+![center-aligned-image](nica.jpg){: .align-center}
 Nica was introduced to anime at a very young age. Her interest in anime grew much more after high school graduation while waiting to start college and she had nothing else to do. She goes to Japan annually like some kind of ritual. Her favorite anime is Gintama.
 
 ## Mike
