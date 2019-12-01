@@ -77,7 +77,7 @@ plugins:
 
 # Collections
 collections:
-  recipes:
+  catalog:
     output: true
     permalink: /:collection/:path/
 
