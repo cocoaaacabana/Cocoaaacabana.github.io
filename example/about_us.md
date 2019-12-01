@@ -1,7 +1,8 @@
 ---
 title: About Us
-layout: post
+layout: collection
 permalink: /about_us/
+colelction: about_us
 ---
 
 ## Nica
