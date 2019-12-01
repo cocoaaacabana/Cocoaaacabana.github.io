@@ -6,4 +6,4 @@ collection: catalog
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_catalog`.
+This page compiles the panels/presentations we have done in the past and present!
