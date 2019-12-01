@@ -112,6 +112,7 @@ author:
       icon:
 
 # Footer Links
+footer_links:
   - title: Instagram
     url: https://instagram.com/niiicapon
     icon: fab fa-instagram
